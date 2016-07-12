@@ -6,3 +6,6 @@
 
 ## Install
     installation procedure ...
+
+## Usage instructions
+    Usage instructions ...
